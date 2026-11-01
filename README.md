@@ -5,8 +5,8 @@ Software engineer and engineering leader. I work on distributed systems and data
 Most of my projects started because I needed something that didn't quite exist.
 
 **Open-source projects**
-- [GPU Switcher](https://github.com/wl04/gpu-switcher) - Primary GPU switching for GNOME/Mutter
-- [LLM Servy](https://github.com/wl04/llm-servy) - Local LLM inference management
-- [Claude Switch](https://github.com/wl04/claude-switch) - Switching Claude Code inference backends
+- [GPU Switcher](https://github.com/wl04/gpu-switcher) - A GTK4 utility for switching the primary GPU in GNOME/Mutter
+- [LLM Servy](https://github.com/wl04/llm-servy) - Managing local LLM inference and AI coding agents on Windows/WSL
+- [Claude Switch](https://github.com/wl04/claude-switch) - Switching Claude Code between hosted and local inference
 
 [LinkedIn](https://www.linkedin.com/in/sergey-baranov-wl04/)
